@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
             seedColor: const Color.fromARGB(255, 110, 34, 240)),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter 大学だ'),
+      home: const MyHomePage(title: 'Flutter 大学だおおおお'),
     );
   }
 }
